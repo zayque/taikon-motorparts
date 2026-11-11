@@ -1,0 +1,13 @@
+.env
+/storage/logs/*
+!/storage/logs/.gitkeep
+/public/uploads/products/*
+!/public/uploads/products/.gitkeep
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Not part of the app
+/_legacy/
+/promo/
